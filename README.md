@@ -1,2 +1,18 @@
-# todo-list
-A Python-based To-Do List application that allows users to add, view, complete, and delete tasks.
+# To-Do List Application
+
+A Python-based task management application.
+
+## Features
+
+- Add Tasks
+- View Tasks
+- Mark Tasks as Completed
+- Delete Tasks
+
+## Technologies Used
+
+- Python
+
+## Author
+
+Yash Bhardwaj
